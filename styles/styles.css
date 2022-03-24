@@ -1,0 +1,4 @@
+.elementToFadeInAndOut {
+  opacity: 1;
+  transition: opacity 20s linear;
+}
