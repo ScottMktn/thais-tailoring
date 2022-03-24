@@ -97,7 +97,7 @@ export default function Skills() {
             The big day requires even bigger alterations. I love working with
             brides to make ordinary wedding gowns into the gowns they imagined
             themselves in as a kid. The big day is a stressful one, so remove
-            the stress knowing you'll be looking your best.
+            the stress knowing you&apos;ll be looking your best.
           </Feature>
 
           <Feature title="Prom Dresses" icon={<GiLargeDress />}>
@@ -111,8 +111,8 @@ export default function Skills() {
             There is absolutely nothing worse than a pair a jeans that goes a
             little too far or is a little too short. You feel like a million
             bucks when your pants, shirts, and jackets fit just right to your
-            proportions. And what's better than a unique mend pattern to fix a
-            pair of pants!
+            proportions. And what&apos;s better than a unique mend pattern to
+            fix a pair of pants!
           </Feature>
         </SimpleGrid>
       </Flex>

@@ -55,7 +55,7 @@ const Hero = () => {
           color="black"
           lineHeight="shorter"
         >
-          Welcome to Thai's Tailoring Services
+          Welcome to Thai&apos;s Tailoring Services
         </chakra.h1>
         {/* <chakra.p
           mb={6}
